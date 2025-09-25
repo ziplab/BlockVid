@@ -7,5 +7,5 @@
 >
 > \*Project leads. <sup>†</sup>Corresponding authors.
 >
-> ### [Paper]() | [Website]() | [LV-Bench]() | [Models]() | [HF Paper]()
+> ### [Paper]() | [Website](http://ziplab.co/BlockVid/) | [LV-Bench]() | [Models]() | [HF Paper]()
 
