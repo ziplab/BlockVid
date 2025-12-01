@@ -7,7 +7,7 @@
 >
 > \*Corresponding authors.
 >
-> ### [Paper](https://arxiv.org/abs/2511.22973) | [Website](http://ziplab.co/BlockVid/) | [LV-Bench](https://huggingface.co/datasets/heyuanyu/LV-Bench)
+> ### [Paper](https://arxiv.org/abs/2511.22973) | [Website](http://ziplab.co/BlockVid/) | [LV-Bench](https://huggingface.co/datasets/heyuanyu/LV-Bench) | [Inferix](https://github.com/alibaba-damo-academy/Inferix)
 <!--
 | [Models]() | [HF Paper]()
 -->
