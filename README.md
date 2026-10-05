@@ -1,13 +1,8 @@
-# BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation
+# BlockVid has moved to BIFE
 
+This repository has moved to **BIFE**. Please use the new repository for the latest code and updates.
 
-> **BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation**
->
-> [Zeyu Zhang](https://steve-zeyu-zhang.github.io/), Shuning Chang, Yuanyu He, Yizeng Han, Jiasheng Tang\*, Fan Wang, and [Bohan Zhuang](https://bohanzhuang.github.io/)\*
->
-> \*Corresponding authors.
->
-> ### [Paper](https://arxiv.org/abs/2511.22973) | [Website](http://ziplab.co/BlockVid/) | [LV-Bench](https://huggingface.co/datasets/heyuanyu/LV-Bench) | [Inferix](https://github.com/alibaba-damo-academy/Inferix)
-<!--
-| [Models]() | [HF Paper]()
--->
+- **New GitHub repository:** [alibaba-damo-academy/BIFE](https://github.com/alibaba-damo-academy/BIFE)
+- **Project website:** [BIFE](https://alibaba-damo-academy.github.io/BIFE)
+
+The webpage in this repository automatically redirects to the BIFE project website.
